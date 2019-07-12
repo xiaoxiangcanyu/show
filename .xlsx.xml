@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<VBA-0118 position="VBA-0118.xlsx">
+  <sheet id="report" position="VBA-0118.xlsx,report"/>
+  <sheet id="file" position="VBA-0118.xlsx,file"/>
+  <sheet id="replacement" position="VBA-0118.xlsx,replacement"/>
+  <sheet id="database" position="VBA-0118.xlsx,database"/>
+  <sheet id="duplicate" position="VBA-0118.xlsx,duplicate"/>
+</VBA-0118>
